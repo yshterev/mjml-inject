@@ -1,0 +1,11 @@
+<!-- Image Header -->
+<mj-section background-url="https://pixabay.com/static/uploads/photo/2015/08/08/20/18/paris-880754_960_720.jpg" background-size="cover" padding="10">
+  <mj-column>
+    <mj-text align="center" line-height="1" color="#fff" font-size="40" font-family="Helvetica Neue" padding="80">Slogan here</mj-text>
+    <mj-button background-color="#F63A4D" href="#">
+      Promotion
+    </mj-button>
+  </mj-column>
+</mj-section>
+
+{{tpl-2.mjml}}

@@ -1,0 +1,24 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#e8e8e8">
+
+      <!-- Company Header -->
+      <mj-section background-color="#f0f0f0">
+        <mj-column>
+          <mj-text font-style="italic" align="center" font-size="20" color="#626262">
+            My Company
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      {{tpl-1.mjml}}
+
+      <mj-section background-color="#e7e7e7">
+        <mj-column>
+          <mj-social display="facebook" />
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
